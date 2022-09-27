@@ -3,8 +3,7 @@ import java.util.List;
 import javax.swing.JOptionPane;
 
 public class Project01 {
-    public static void main(String[] args) 
-    {
+    public static void main(String[] args) {
       // define variables
       String firstName, lastName;
       String input;
